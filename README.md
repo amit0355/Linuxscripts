@@ -1,0 +1,2 @@
+# Linuxscripts
+practicinglinux and github
