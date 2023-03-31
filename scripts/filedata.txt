@@ -1,0 +1,14 @@
+/home/amit_thakur/scripts
+total 4
+-rwxr--r-- 1 amit_thakur amit_thakur 210 Mar 18 07:00 casescript.sh
+-rw-r--r-- 1 amit_thakur amit_thakur  76 Mar 18 07:30 expuse.sh
+-rw-r--r-- 1 amit_thakur amit_thakur  26 Mar 18 10:56 filedata.txt
+-rw-r--r-- 1 amit_thakur amit_thakur  14 Mar 17 21:42 if_else_use
+-rwxr--r-- 1 amit_thakur amit_thakur 204 Mar 18 10:13 if_else_use.sh
+-rwxr--r-- 1 amit_thakur amit_thakur  81 Mar 17 21:40 input.sh
+-rwxr--r-- 1 amit_thakur amit_thakur 185 Mar 18 07:08 loopforeg.sh
+-rw-r--r-- 1 amit_thakur amit_thakur   1 Mar 18 10:52 name
+-rwxr--r-- 1 amit_thakur amit_thakur  30 Mar 17 21:26 output.sh
+-rwxr--r-- 1 amit_thakur amit_thakur 127 Mar 18 07:25 readdatafromfile.sh
+-rwxr--r-- 1 amit_thakur amit_thakur  76 Mar 17 21:32 variable.sh
+-rwxr--r-- 1 amit_thakur amit_thakur  87 Mar 18 07:14 whilecaseuse.sh
